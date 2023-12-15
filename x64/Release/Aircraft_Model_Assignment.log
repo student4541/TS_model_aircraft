@@ -1,0 +1,19 @@
+﻿  TS_Model.cpp
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\Aircraft.h(27,1): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\Aircraft.h(37,31): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\TS_Model.cpp(125,67): warning C4244: “参数”: 从“double”转换到“IloInt”，可能丢失数据
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\TS_Model.cpp(136,75): warning C4244: “参数”: 从“double”转换到“IloInt”，可能丢失数据
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\TS_Model.cpp(138,75): warning C4244: “参数”: 从“double”转换到“IloInt”，可能丢失数据
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\TS_Model.cpp(144,35): warning C4477: “sprintf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 2 拥有了类型“int”
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\TS_Model.cpp(144,35): message : 请考虑在格式字符串中使用“%d”
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\TS_Model.cpp(144,35): message : 请考虑在格式字符串中使用“%I32d”
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\TS_Model.cpp(155,35): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“std::string”
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\TS_Model.cpp(155,35): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“std::string”
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\TS_Model.cpp(289,31): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+C:\Project\Aircraft_Model_Assignment\Aircraft_Model_Assignment\TS_Model.cpp(314,27): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+  正在生成代码
+  3 of 1793 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Aircraft_Model_Assignment.vcxproj -> C:\Project\Aircraft_Model_Assignment\x64\Release\Assignment.exe
